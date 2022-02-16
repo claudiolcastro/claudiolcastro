@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, I'm Cláudio 👋
 
-<!--
-**claudiolcastro/claudiolcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em> I am a Software developer and Javascript enthusiast, driven by solving real-life problems through technology.</a>
+ </em></p>
+ 
+ <img align='right' src="https://giphy.com/embed/l0K4k1O7RJSghST3a" width="230">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiolcastro/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/claudiolcastro)
+
+
+<div>
+  <a href="https://github.com/claudiolcastro"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=claudiolcastro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
