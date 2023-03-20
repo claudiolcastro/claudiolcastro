@@ -14,4 +14,4 @@
 
 
 <div>
-  <a href="https://github.com/claudiolcastro"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=claudiolcastro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<!--   <a href="https://github.com/claudiolcastro"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=claudiolcastro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> -->
