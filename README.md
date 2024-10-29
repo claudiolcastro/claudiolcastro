@@ -1,16 +1,19 @@
-### Hello, I'm Cláudio 👋
+# Hello, I'm Cláudio 👋
 
-<p><em> I am a Software developer and Javascript enthusiast, driven by solving real-life problems through technology.</a>
- </em></p>
- 
- <img align='right' src="https://github.com/claudiolcastro/claudiolcastro/blob/main/r2d2.png?raw=true" width="300">
-
-
-- 📫 How to reach me:
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiolcastro/)
-
+<p>
+   I am a Software developer and Javascript enthusiast, driven by solving real-life problems through technology.</a>
+</p>
 
 <div>
-<!--   <a href="https://github.com/claudiolcastro"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=claudiolcastro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> -->
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=claudiolcastro&custom_title=My%20Github%20life&show_icons=true&rank_icon=github&theme=react&include_all_commits=true&&hide=contribs&count_private=true"
+  />&nbsp;&nbsp;&nbsp;&nbsp;<img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiolcastro&layout=compact&langs_count=7&theme=react"
+  />
+</div>
+
+### - 📫 How to reach me:
+ <a href = "mailto:claudioluiz.castro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/claudiolcastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
