@@ -7,9 +7,6 @@
 <div>
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=claudiolcastro&custom_title=My%20Github%20life&show_icons=true&rank_icon=github&theme=react&include_all_commits=true&&hide=contribs&count_private=true"
-  />&nbsp;&nbsp;&nbsp;&nbsp;<img
-    height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiolcastro&layout=compact&langs_count=7&theme=react"
   />
 </div>
